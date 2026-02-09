@@ -1,11 +1,11 @@
-# 💰 Personal Finance Manager (Python CLI)
+# Personal Finance Manager (Python CLI)
 
 A simple command-line based Personal Finance Manager built using Python.  
 This project allows users to track expenses, generate reports, and manage backups using CSV file storage.
 
 ---
 
-## 📌 Features
+##  Features
 
 - Add Expense (Amount, Category, Date, Description)
 - View All Expenses
@@ -19,7 +19,7 @@ This project allows users to track expenses, generate reports, and manage backup
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - Python 3
 - CSV File Handling
@@ -28,7 +28,7 @@ This project allows users to track expenses, generate reports, and manage backup
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 finance_manager/
 │── main.py
@@ -48,7 +48,7 @@ finance_manager/
 ├── backups/
 │ └── (auto generated backup files)
 
-📊 Sample Features
+## Sample Features
 
 Category Summary → Shows total expense per category
 
@@ -58,7 +58,7 @@ Backup → Creates timestamped backup file
 
 Restore → Recovers previous backup
 
-🎯 Project Purpose
+## Project Purpose
 
 This project was built as part of an internship to demonstrate:
 
@@ -72,7 +72,7 @@ CLI Application Development
 
 Data Processing & Reporting
 
-👨‍💻 Author
+# Author
 
 BATHULA VENU GOPAL | INTERN AT THE DEVELOPERS ARENA.
 
